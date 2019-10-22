@@ -1,3 +1,3 @@
 This is test page from Jenkins
 
-automatically triggered
+automatically triggered dont call me idiot
